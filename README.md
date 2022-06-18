@@ -1,0 +1,2 @@
+# Java-Candy
+basic exercises
